@@ -98,5 +98,6 @@ public class EmployeeWage {
         emp.empDailyWage();
         emp.addPartTimeAndEmpWage();
         emp.switchStatement();
+        emp.empMonthlyWage();
     }
 }
